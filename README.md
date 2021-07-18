@@ -1,13 +1,13 @@
 
 <h1> Features 🔆 </h1>
 
-• Changed Bot's Search API to api.abirhasan.wtf
-• 1337x Search Bug Fixed
-• ThePirateBay Search Bug Fixed
-• Added YTS Search Support
-• Added Anime Torrents Search Support
+- Changed Bot's Search API to api.abirhasan.wtf
+- 1337x Search Bug Fixed
+- ThePirateBay Search Bug Fixed
+- Added YTS Search Support
+- Added Anime Torrents Search Support
 
-<img src="https://telegra.ph/file/c18a32b1b3d3744bf44dc.jpg" width="210" height="34.45"/></a></p>
+<img src="https://telegra.ph/file/c18a32b1b3d3744bf44dc.jpg" width="300 " height="300 "/></a></p>
 
 
 
