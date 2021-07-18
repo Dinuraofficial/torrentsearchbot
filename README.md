@@ -45,7 +45,7 @@
 
 <h1> Special Thanks 💝 </h1>
 
-###  All credits [leo media Search Repo](https://github.com/AbirHasan2005/Torrent-Search-Bot/tree/main) ❤️❤️❤️
+###  All credits [Orginal Repo](https://github.com/AbirHasan2005/Torrent-Search-Bot/tree/main) ❤️❤️❤️
 
 
 
