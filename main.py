@@ -28,7 +28,7 @@ async def start_handler(_, message: Message):
     try:
         await message.reply_sticker("CAACAgIAAxkBAAEL-PVg88ZbCowyEfg34PS3ugqHR-smRgACVQADr8ZRGmTn_PAl6RC_HgQ")
         await message.reply_text(
-            text="😋Hello, I am Torrent Search Bot!\n"
+            text="😋Hello, I am simple Torrent Search Bot!\n"
                  "✅I can search Torrent Magnetic Links from Inline.\n\n"
                  "✅Made by @supunma ",
             disable_web_page_preview=True,
