@@ -29,7 +29,7 @@
 ### Deploy to Heroku 🔥🕺 
 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/torrentsearchbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dinuraofficial/torrentsearchbot)
 
 ###              The easiest way to deploy this  Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/torrentsearchbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
